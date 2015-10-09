@@ -1,0 +1,14 @@
+body {
+  color: #7FFF00;
+  font-family: Helvetica, Arial, sans-serif;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/22/Dance_floor_2_by_harmon.jpg");
+}
+
+h1 {
+  margin-top: 100px;
+  text-align: center;
+}
+
+li {
+	color: black;
+}
